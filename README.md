@@ -376,5 +376,3 @@ monthavgs.select("Month","avg(Close)").orderBy('Month').show()
     +-----+-----------------+
     
     
-
-# Great Job!
